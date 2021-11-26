@@ -1,0 +1,7 @@
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Holamundo}\Holamundo}\bin\Debug\Holamundo}.exe
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Holamundo}\Holamundo}\bin\Debug\Holamundo}.pdb
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Holamundo}\Holamundo}\obj\Debug\Holamundo}.csprojResolveAssemblyReference.cache
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Holamundo}\Holamundo}\obj\Debug\Holamundo_.MainForm.resources
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Holamundo}\Holamundo}\obj\Debug\Holamundo}.csproj.GenerateResource.Cache
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Holamundo}\Holamundo}\obj\Debug\Holamundo}.exe
+C:\Users\VaCkensi\Documents\SharpDevelop Projects\Holamundo}\Holamundo}\obj\Debug\Holamundo}.pdb
